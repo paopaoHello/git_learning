@@ -6,6 +6,7 @@ You can follow me in github. We can study together.
 
 Get Started
 - Clone the project to your local device by 'git clone'
+- Check each lesson
 
 ref project:
 - https://time.geekbang.org/course/detail/100021601-75478
